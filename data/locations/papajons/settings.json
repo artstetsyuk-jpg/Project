@@ -1,0 +1,11 @@
+{
+  "name": "papajons",
+  "language": "English",
+  "country": "FR",
+  "station": "Vienna",
+  "lunch_share": 40,
+  "avg_spend": 25.0,
+  "guests_per_server": 15,
+  "recipients": "",
+  "password_hash": "pbkdf2_sha256$e583ccc22908276d39cd829a6bc146f1$8aa3c5f89d97eca4e9d7845b9076d8ae6af40a980c36328ad43d66972b64fbec"
+}
